@@ -7,11 +7,11 @@ USE Warehouse;
 GO
 
 -- Create schemas
-CREATE SCHEMA bronze; -- Raw data
+CREATE SCHEMA bronze; 
 GO
 
-CREATE SCHEMA silver; -- Cleaned data
+CREATE SCHEMA silver; 
 GO
 
-CREATE SCHEMA gold; -- Business-ready data
+CREATE SCHEMA gold; 
 GO
